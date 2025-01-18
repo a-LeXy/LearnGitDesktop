@@ -1,1 +1,3 @@
 # LearnGitDesktop
+
+## Cateva functii simple
