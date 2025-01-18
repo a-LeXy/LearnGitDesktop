@@ -6,3 +6,6 @@ def Scadere (x,y):
 
 Adunare(10,20)
 Scadere(40,20)
+
+def inmultire(x,y):
+    print(x*y)
